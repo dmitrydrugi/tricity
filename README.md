@@ -1,2 +1,2 @@
 # tricity
-tricity daily assistant
+Tricity daily assistant
